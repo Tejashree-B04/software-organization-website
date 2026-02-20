@@ -1,6 +1,8 @@
 # Software Organization Website
 
-A responsive software organization website built using React, Vite, React Router, and Bootstrap.
+ Live Demo: https://tejashree2004.netlify.app/
+
+A responsive software organization website built using React, Vite, React Router, and Bootstrap
 
 ##  Features
 - Home Page
